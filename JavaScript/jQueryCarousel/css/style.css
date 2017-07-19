@@ -41,3 +41,8 @@ ul {
 	font-size: 30px;
 	background: rgba(0,0,0, 0);
 }
+
+img {
+	width: auto;
+	height: 100%;
+}
